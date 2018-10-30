@@ -1,0 +1,16 @@
+*~
+*.swp
+*.ipch
+*.db
+*.opendb
+*.obj
+*.idb
+*.exe
+*.obj
+*.iobj
+*.log
+*.pdb
+*.tlog
+*.suo
+*.tlog
+*.obj
